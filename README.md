@@ -32,6 +32,8 @@ Github收藏夹
 | --- | --- |
 | [Pock](https://github.com/pigigaldi/Pock) | 在Touch Bar 显示桌面 Dock  |
 | [launchrocket](https://github.com/jimbojsb/launchrocket) | 图形化管理brew安装的服务，什么mysql、nginx...这些钉子，它就是一把🔨 |
+| [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) | 空格预览 |
+
 
 ### 编写
 | 名称 | 描述 |
