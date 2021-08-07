@@ -25,6 +25,8 @@ Github收藏夹
 | [videodownloader](https://github.com/mayeaux/videodownloader) | 视频下载，包括 Youtube 在内的110个网站的视频。  |
 | [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) | 百度下载XXXX。  |
 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件，可以下载。  |
+| [iNDS](https://github.com/iNDS-Team/iNDS) | NDS模拟器 IOS, 需签名安装。  |
+
 
 ### macOS
 
@@ -34,6 +36,9 @@ Github收藏夹
 | [launchrocket](https://github.com/jimbojsb/launchrocket) | 图形化管理brew安装的服务，什么mysql、nginx...这些钉子，它就是一把🔨 |
 | [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) | 空格预览 |
 
+#### Alfred Workflow
+| --- | --- |
+| [有道翻译](https://github.com/whyliam/whyliam.workflows.youdao) | 可以选择文字，双击Option进行翻译  |
 
 ### 编写
 | 名称 | 描述 |
